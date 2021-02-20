@@ -19,7 +19,7 @@ namespace WindowsFormsTest1
 
         private void btnTest_Click(object sender, EventArgs e)
         {
-            Console.WriteLine($"Button Test clicked");
+            Console.WriteLine($"Button Test clicked (dev)");
         }
     }
 }
