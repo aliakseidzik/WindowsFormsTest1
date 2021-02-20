@@ -16,5 +16,10 @@ namespace WindowsFormsTest1
         {
             InitializeComponent();
         }
+
+        private void btnTest_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine($"Button Test clicked");
+        }
     }
 }
